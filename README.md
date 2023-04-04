@@ -15,9 +15,9 @@ You can find a quick guide in the following [cheat sheet](https://www.markdowngu
 by: *Names of the authors*
 
 
-**Faculty of Technology and Bionics**
+****
 
-***Rhine-Waal University of Applied Sciences***
+******
 
 Date: XX January 2022
 
